@@ -1,0 +1,16 @@
+Phase 1 started
+sorting and saving tmpfile0
+sorting and saving tmpfile1
+sorting and saving tmpfile2
+sorting and saving tmpfile3
+sorting and saving tmpfile4
+sorting and saving tmpfile5
+sorting and saving tmpfile6
+sorting and saving tmpfile7
+sorting and saving tmpfile8
+sorting and saving tmpfile9
+Phase 1 Time elapsed (sec) = 7.457
+Phase 2 started
+Phase 2 Time elapsed (sec) = 6.737
+Sort complete
+Time elapsed (sec) = 14.196
